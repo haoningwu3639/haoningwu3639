@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![haoningwu3639's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoningwu3639)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **haoningwu3639/haoningwu3639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
