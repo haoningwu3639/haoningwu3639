@@ -1,7 +1,7 @@
 ## Self-Intro 
 
 - 🧑‍💻 I am Haoning Wu.
-- 🌱 I am currently a 2nd-year PhD candidate of MediaBrain at Shanghai Jiao Tong University (SJTU), advised by Prof. Weidi Xie and Prof. Ya Zhang. Previously, I received my B.S. degree in EE (IEEE honor class) also from SJTU in June 2022.
+- 🌱 I am currently a 3rd-year PhD candidate of MediaBrain at Shanghai Jiao Tong University (SJTU), advised by Prof. Weidi Xie and Prof. Ya Zhang. Previously, I received my B.S. degree in EE (IEEE honor class) also from SJTU in June 2022.
 - 💬 I'm generally interested in computer vision, especially generative models, AI4Science and AI4Sports.
 - 📧 Feel free to contact me via email!!!
 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/HaoningWu_)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoningwu3639@gmail.com)](mailto:haoningwu3639@gmail.com)
