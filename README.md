@@ -5,7 +5,7 @@
 - 💬 I'm generally interested in **multi-modal learning**, especially **generative models**, **spatial intelligence**, and AI4Sports. My ultimate goal is to build an artificial general intelligence that surpasses humans in **perception**, **thinking**, and **practical** abilities.
 - 📧 **I am always eager to communicate and cooperate, so feel free to contact me!!!**
 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/HaoningWu_)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoningwu3639@gmail.com)](mailto:haoningwu3639@gmail.com)
-- 🙋 By the way, I am currently open to **research internship** opportunities related to **multi-modal generation and understanding**.
+- 🙋 I am currently open to **research internship** opportunities related to **multi-modal generation and understanding**.
 - 🌐 Please refer to [my homepage](https://haoningwu3639.github.io/) for more information.
 
 ## Some Statistics
